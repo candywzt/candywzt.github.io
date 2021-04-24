@@ -1,5 +1,6 @@
-暂时还没写啊
+NULL
 
 
+English|[中文](README_CN.md)
+If you want to see my notes, please click [<font color=red>here</font>](https://candywzt.github.io).
 
-笔记点[<font color=red>这里</font>][https://candywzt.github.io]
