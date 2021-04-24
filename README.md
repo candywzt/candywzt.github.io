@@ -2,4 +2,4 @@
 
 
 
-笔记点[这里][https://candywzt.github.io]
+笔记点[<font color=red>这里</font>](https://candywzt.github.io)
